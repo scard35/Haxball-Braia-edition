@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagens/capa.png" alt="Haxball Braia Edition" width="100%">
+  <img src="imagens/capa-berserk-neon.jpg" alt="Haxball Braia Edition" width="100%">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="imagens/tela-salas.jpg" alt="Lista de salas com o tema Gargantua" width="100%">
+  <img src="imagens/tela-salas-neon.jpg" alt="Lista de salas com o tema Neon" width="100%">
 </p>
 
 ## ✨ Recursos
@@ -65,8 +65,8 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="imagens/tela-temas.jpg" alt="Escolha de temas"></td>
-    <td width="50%"><img src="imagens/tela-opcoes.jpg" alt="Menu de opções"></td>
+    <td width="50%"><img src="imagens/tela-temas-berserk.jpg" alt="Escolha de temas, com o tema Berserk"></td>
+    <td width="50%"><img src="imagens/tela-opcoes-berserk.jpg" alt="Menu de opções, com o tema Berserk"></td>
   </tr>
   <tr>
     <td align="center"><sub>Temas</sub></td>
