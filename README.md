@@ -24,7 +24,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🎨 Temas</h4>
-      11 temas com wallpaper e interface moderna, com cantos arredondados e visual mais suave.
+      16 temas com wallpaper e interface moderna. Ou crie o seu, com suas cores e sua própria imagem de fundo.
     </td>
     <td width="50%" valign="top">
       <h4>🧹 Chat limpo</h4>
@@ -47,18 +47,38 @@
       Encontre salas pelo nome, sem se preocupar com acentos e maiúsculas. Ou cole o link da sala no topo e entre direto.
     </td>
     <td valign="top">
-      <h4>🚀 Desempenho</h4>
-      FPS desbloqueado com teto ajustável, extrapolation sem limites e nenhum anúncio carregando durante o jogo.
+      <h4>⭐ Favoritas e histórico</h4>
+      Favorite salas com uma estrela e elas ficam no topo da lista. As últimas salas em que você entrou ficam a um clique.
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h4>🎬 Replays</h4>
-      Replays e estádios exportados vão direto para a pasta Downloads, sem perguntar onde salvar.
+      <h4>📊 Estatísticas</h4>
+      Gols, assistências, vitórias e o histórico das suas partidas, salvos no seu PC.
     </td>
+    <td valign="top">
+      <h4>🔔 Nick citado</h4>
+      Destaque e som quando alguém chama você no chat, até com letras estilizadas.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>🚀 Desempenho</h4>
+      FPS desbloqueado com teto ajustável, extrapolation sem limites e nenhum anúncio carregando durante o jogo.
+    </td>
+    <td valign="top">
+      <h4>🎬 Replays</h4>
+      Abra com duplo clique ou arrastando para a janela. Os que você salva vão direto para Downloads e ficam em "Recentes".
+    </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h4>🔄 Sempre atualizado</h4>
       O app avisa quando sai versão nova e se atualiza sozinho.
+    </td>
+    <td valign="top">
+      <h4>🛡️ Aviso de mudanças</h4>
+      Se uma atualização do HaxBall afetar algum recurso, o app avisa o que parou.
     </td>
   </tr>
 </table>
