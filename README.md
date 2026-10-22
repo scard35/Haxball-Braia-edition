@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagens/capa-berserk-neon.jpg" alt="Haxball Braia Edition" width="100%">
+  <img src="imagens/capa.jpg" alt="Haxball Braia Edition" width="100%">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="imagens/tela-salas-neon.jpg" alt="Lista de salas com o tema Neon" width="100%">
+  <img src="imagens/tela-salas.jpg" alt="Lista de salas com o tema Neon" width="100%">
 </p>
 
 ## ✨ Recursos
@@ -24,7 +24,17 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🎨 Temas</h4>
-      16 temas com wallpaper e interface moderna. Ou crie o seu, com suas cores e sua própria imagem de fundo.
+      16 temas com wallpaper e três estilos de interface: Moderno, Clássico e Neon. Ou crie o seu, com suas cores e sua própria imagem de fundo.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🟢 Estilo Neon</h4>
+      Visual novo em verde e preto, com estádio de fundo e uma lista de salas com abas, filtros, ordem e a sala escolhida em destaque.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Configurações</h4>
+      Tudo num painel só, com busca: aparência, chat e desempenho. Abre pelo cabeçalho ou com <code>Ctrl+,</code>.
     </td>
     <td width="50%" valign="top">
       <h4>🧹 Chat limpo</h4>
@@ -34,7 +44,7 @@
   <tr>
     <td valign="top">
       <h4>🔇 Mute local</h4>
-      Esconde o chat de um jogador só para você, em qualquer sala.
+      Esconde o chat de um jogador só para você, em qualquer sala, até nas que mostram o chat como anúncio.
     </td>
     <td valign="top">
       <h4>💬 Atalhos do chat</h4>
@@ -53,8 +63,8 @@
   </tr>
   <tr>
     <td valign="top">
-      <h4>📊 Estatísticas</h4>
-      Gols, assistências, vitórias e o histórico das suas partidas, salvos no seu PC.
+      <h4>🪶 Modo leve</h4>
+      Um clique tira wallpaper, desfoques e animações, para rodar liso em PC sem placa de vídeo boa.
     </td>
     <td valign="top">
       <h4>🔔 Nick citado</h4>
@@ -85,12 +95,27 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="imagens/tela-temas-berserk.jpg" alt="Escolha de temas, com o tema Berserk"></td>
-    <td width="50%"><img src="imagens/tela-opcoes-berserk.jpg" alt="Menu de opções, com o tema Berserk"></td>
+    <td width="50%"><img src="imagens/tela-temas.jpg" alt="Escolha de temas, com o tema Berserk"></td>
+    <td width="50%"><img src="imagens/tela-configuracoes.jpg" alt="Painel de configurações, com o tema Berserk"></td>
   </tr>
   <tr>
     <td align="center"><sub>Temas</sub></td>
-    <td align="center"><sub>Opções</sub></td>
+    <td align="center"><sub>Configurações</sub></td>
+  </tr>
+</table>
+
+## 🟢 Estilo Neon
+
+Um visual novo em verde e preto. Escolha em **Configurações › Aparência › Estilo da interface**.
+
+<table>
+  <tr>
+    <td width="50%"><img src="imagens/neon-entrada.jpg" alt="Tela de entrada no estilo Neon"></td>
+    <td width="50%"><img src="imagens/neon-salas.jpg" alt="Lista de salas no estilo Neon"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Tela de entrada</sub></td>
+    <td align="center"><sub>Lista de salas</sub></td>
   </tr>
 </table>
 
