@@ -14,9 +14,31 @@
 
 <br>
 
+## 📸 Fotos
+
 <p align="center">
   <img src="imagens/tela-salas.jpg" alt="Lista de salas com o tema Neon" width="100%">
+  <br><sub>Lista de salas</sub>
 </p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="imagens/neon-entrada.jpg" alt="Tela de entrada no estilo Neon"></td>
+    <td width="50%"><img src="imagens/neon-salas.jpg" alt="Lista de salas no estilo Neon"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Estilo Neon · Tela de entrada</sub></td>
+    <td align="center"><sub>Estilo Neon · Lista de salas</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="imagens/tela-temas.jpg" alt="Escolha de temas, com o tema Berserk"></td>
+    <td width="50%"><img src="imagens/tela-configuracoes.jpg" alt="Painel de configurações, com o tema Berserk"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Temas</sub></td>
+    <td align="center"><sub>Configurações</sub></td>
+  </tr>
+</table>
 
 ## ✨ Recursos
 
@@ -28,7 +50,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>🟢 Estilo Neon</h4>
-      Visual novo em verde e preto, com estádio de fundo e uma lista de salas com abas, filtros, ordem e a sala escolhida em destaque.
+      Visual novo em verde e preto, com estádio de fundo e uma lista de salas com abas, filtros, ordem e a sala escolhida em destaque. Escolha em <b>Configurações › Aparência › Estilo da interface</b>.
     </td>
   </tr>
   <tr>
@@ -90,32 +112,6 @@
       <h4>🛡️ Aviso de mudanças</h4>
       Se uma atualização do HaxBall afetar algum recurso, o app avisa o que parou.
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%"><img src="imagens/tela-temas.jpg" alt="Escolha de temas, com o tema Berserk"></td>
-    <td width="50%"><img src="imagens/tela-configuracoes.jpg" alt="Painel de configurações, com o tema Berserk"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Temas</sub></td>
-    <td align="center"><sub>Configurações</sub></td>
-  </tr>
-</table>
-
-## 🟢 Estilo Neon
-
-Um visual novo em verde e preto. Escolha em **Configurações › Aparência › Estilo da interface**.
-
-<table>
-  <tr>
-    <td width="50%"><img src="imagens/neon-entrada.jpg" alt="Tela de entrada no estilo Neon"></td>
-    <td width="50%"><img src="imagens/neon-salas.jpg" alt="Lista de salas no estilo Neon"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Tela de entrada</sub></td>
-    <td align="center"><sub>Lista de salas</sub></td>
   </tr>
 </table>
 
