@@ -3,133 +3,94 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/scard35/Haxball-Braia-edition/releases/latest"><img src="https://img.shields.io/github/v/release/scard35/Haxball-Braia-edition?style=for-the-badge&label=vers%C3%A3o&color=4fd61f&labelColor=15191c" alt="Versão"></a>
-  <a href="https://github.com/scard35/Haxball-Braia-edition/releases/latest"><img src="https://img.shields.io/github/downloads/scard35/Haxball-Braia-edition/total?style=for-the-badge&label=downloads&color=244967&labelColor=15191c" alt="Downloads"></a>
-  <img src="https://img.shields.io/badge/Windows%20%7C%20Linux-15191c?style=for-the-badge" alt="Windows e Linux">
+  <a href="https://github.com/scard35/Haxball-Braia-edition/releases/latest"><img src="https://img.shields.io/badge/Baixar_a_vers%C3%A3o_mais_nova-f5c33b?style=for-the-badge&logoColor=10231c" alt="Baixar a versão mais nova" height="40"></a>
 </p>
 
-<h3 align="center">
-  <a href="https://github.com/scard35/Haxball-Braia-edition/releases/latest">⬇️ Baixar a versão mais nova</a>
-</h3>
+<p align="center">
+  <a href="https://github.com/scard35/Haxball-Braia-edition/releases/latest"><img src="https://img.shields.io/github/v/release/scard35/Haxball-Braia-edition?style=flat-square&label=vers%C3%A3o&color=14352b&labelColor=0e261f" alt="Versão"></a>
+  <img src="https://img.shields.io/badge/Windows%20e%20Linux-14352b?style=flat-square" alt="Windows e Linux">
+</p>
 
 <br>
 
-## 📸 Fotos
+<img src="imagens/quadra-salas.jpg" alt="Lista de salas: lugares ocupados, sala escolhida em destaque e amigos ao lado" width="100%">
 
-<p align="center">
-  <img src="imagens/tela-salas.jpg" alt="Lista de salas com o tema Neon" width="100%">
-  <br><sub>Lista de salas</sub>
-</p>
+## Jogue com seus amigos
 
-<table>
-  <tr>
-    <td width="50%"><img src="imagens/neon-entrada.jpg" alt="Tela de entrada no estilo Neon"></td>
-    <td width="50%"><img src="imagens/neon-salas.jpg" alt="Lista de salas no estilo Neon"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Estilo Neon · Tela de entrada</sub></td>
-    <td align="center"><sub>Estilo Neon · Lista de salas</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="imagens/tela-temas.jpg" alt="Escolha de temas, com o tema Berserk"></td>
-    <td width="50%"><img src="imagens/tela-configuracoes.jpg" alt="Painel de configurações, com o tema Berserk"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Temas</sub></td>
-    <td align="center"><sub>Configurações</sub></td>
-  </tr>
-</table>
-
-## ✨ Recursos
+Veja em que sala cada amigo está e entre com um clique. Convide para a sua sala, converse e ligue sem sair do jogo.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 Temas</h4>
-      16 temas com wallpaper e três estilos de interface: Moderno, Clássico e Neon. Ou crie o seu, com suas cores e sua própria imagem de fundo.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🟢 Estilo Neon</h4>
-      Visual novo em verde e preto, com estádio de fundo e uma lista de salas com abas, filtros, ordem e a sala escolhida em destaque. Escolha em <b>Configurações › Aparência › Estilo da interface</b>.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Configurações</h4>
-      Tudo num painel só, com busca: aparência, chat e desempenho. Abre pelo cabeçalho ou com <code>Ctrl+,</code>.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧹 Chat limpo</h4>
-      Tira as cores das mensagens das salas e transforma 𝐥𝐞𝐭𝐫𝐚𝐬 𝓮𝓼𝓽𝓲𝓵𝓲𝔃𝓪𝓭𝓪𝓼 em letras normais.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h4>🔇 Mute local</h4>
-      Esconde o chat de um jogador só para você, em qualquer sala, até nas que mostram o chat como anúncio.
-    </td>
-    <td valign="top">
-      <h4>💬 Atalhos do chat</h4>
-      Abreviações como <code>/e</code> → <code>/extrapolation</code> e emojis por código, como <code>:smile:</code>.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h4>🔎 Busca de salas</h4>
-      Encontre salas pelo nome, sem se preocupar com acentos e maiúsculas. Ou cole o link da sala no topo e entre direto.
-    </td>
-    <td valign="top">
-      <h4>⭐ Favoritas e histórico</h4>
-      Favorite salas com uma estrela e elas ficam no topo da lista. As últimas salas em que você entrou ficam a um clique.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h4>🪶 Modo leve</h4>
-      Um clique tira wallpaper, desfoques e animações, para rodar liso em PC sem placa de vídeo boa.
-    </td>
-    <td valign="top">
-      <h4>🔔 Nick citado</h4>
-      Destaque e som quando alguém chama você no chat, até com letras estilizadas.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h4>🚀 Desempenho</h4>
-      FPS desbloqueado com teto ajustável, extrapolation sem limites e nenhum anúncio carregando durante o jogo.
-    </td>
-    <td valign="top">
-      <h4>🎬 Replays</h4>
-      Abra com duplo clique ou arrastando para a janela. Os que você salva vão direto para Downloads e ficam em "Recentes".
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h4>🔄 Sempre atualizado</h4>
-      O app avisa quando sai versão nova e se atualiza sozinho.
-    </td>
-    <td valign="top">
-      <h4>🛡️ Aviso de mudanças</h4>
-      Se uma atualização do HaxBall afetar algum recurso, o app avisa o que parou.
+    <td width="58%"><img src="imagens/quadra-mensagens.jpg" alt="Conversa com um amigo, com convite para a sala"></td>
+    <td width="42%" valign="top">
+      <b>Amigos</b><br>Código de amigo e busca por nome.<br><br>
+      <b>Chat ao vivo</b><br>Numa janela que você move e redimensiona, ao lado do chat da sala.<br><br>
+      <b>Convite</b><br>Um cartão com o nome da sala e o botão Entrar.<br><br>
+      <b>Ligação de voz</b><br>Entre dois amigos, mesmo trocando de sala.
     </td>
   </tr>
 </table>
 
-## 📥 Instalação
+## Ache a sala certa
 
-| | Sistema | Arquivo |
-|:-:|---|---|
-| 🪟 | **Windows 10 e 11** | `Haxball-Braia-Edition-Setup-<versão>.exe`: abra e siga o instalador |
-| 🐧 | **Linux** (Ubuntu, Mint, Debian) | `haxball-braia-edition_<versão>_amd64.deb`: abra na loja de apps ou rode `sudo apt install ./haxball-braia-edition_*.deb` |
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>Lugares à vista</b><br>Cada sala mostra quantos estão em quadra.</td>
+    <td width="33%" valign="top"><b>Filtros</b><br>x3, x4, x5, favoritas, com amigos, próximas e recentes.</td>
+    <td width="33%" valign="top"><b>Sala cheia</b><br>O app espera a vaga e entra para você.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Busca</b><br>Pelo nome, sem se preocupar com acentos e maiúsculas.</td>
+    <td valign="top"><b>Link direto</b><br>Cole o link da sala no topo do app.</td>
+    <td valign="top"><b>Abas</b><br>Várias salas ao mesmo tempo, cada uma conectada.</td>
+  </tr>
+</table>
 
-Os dois estão em **[Releases](https://github.com/scard35/Haxball-Braia-edition/releases/latest)**.
+## Durante a partida
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>Aviso de entrar em campo</b><br>Com o app minimizado, som e pop-up quando colocam você num time ou a partida começa.</td>
+    <td width="50%" valign="top"><b>Chat limpo</b><br>Tira as cores dos anúncios e transforma 𝓵𝓮𝓽𝓻𝓪𝓼 𝓮𝓼𝓽𝓲𝓵𝓲𝔃𝓪𝓭𝓪𝓼 em letras normais.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Nick citado</b><br>Destaque e som quando chamam você no chat.</td>
+    <td valign="top"><b>Mute local</b><br>Esconde o chat de um jogador só para você, em qualquer sala.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Replays</b><br>Duplo clique para abrir, gols marcados na barra de tempo e lance salvo em vídeo.</td>
+    <td valign="top"><b>Modo streamer</b><br>Esconde o link, a senha e o nome da sala para quem assiste.</td>
+  </tr>
+</table>
+
+## Do seu jeito
+
+<table>
+  <tr>
+    <td width="50%"><img src="imagens/tela-configuracoes.jpg" alt="Configurações no estilo Quadra"></td>
+    <td width="50%"><img src="imagens/tela-temas.jpg" alt="Escolha de temas no estilo Moderno"></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Estilo Quadra, Moderno ou Clássico</b><br>Configurações reúne tudo, com busca. Abra pela barra de cima ou com <code>Ctrl+,</code>.</td>
+    <td valign="top"><b>16 temas com wallpaper</b><br>Nos estilos Moderno e Clássico. Ou crie o seu, com suas cores e sua imagem.</td>
+  </tr>
+</table>
+
+**Modo leve** para PC fraco, **FPS** com teto ajustável, nenhum anúncio durante o jogo e **atualização automática**: o app avisa quando sai versão nova e se atualiza sozinho.
+
+## Como instalar
+
+Baixe em **[Releases](https://github.com/scard35/Haxball-Braia-edition/releases/latest)**:
+
+| Sistema | Arquivo | Como instalar |
+|---|---|---|
+| **Windows 10 e 11** | `Haxball-Braia-Edition-Setup-<versão>.exe` | Abra e siga o instalador |
+| **Linux** (Ubuntu, Mint, Debian) | `haxball-braia-edition_<versão>_amd64.deb` | Abra na loja de apps, ou rode `sudo apt install ./haxball-braia-edition_*.deb` |
 
 > [!NOTE]
 > No Windows, pode aparecer o aviso azul *"O Windows protegeu o computador"*. Clique em **Mais informações** e depois em **Executar assim mesmo**.
 
-## 🔑 Ativação
-
-Na primeira vez que abrir, o app pede uma **chave de ativação**. Cada chave ativa um PC. Peça a sua para o **Braia**.
+Na primeira vez, o app pede uma **chave de ativação**. Cada chave ativa um PC. Peça a sua para o **Braia**.
 
 <br>
 
