@@ -3,15 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/scard35/Haxball-Braia-edition/releases/latest"><img src="https://img.shields.io/badge/Baixar_a_vers%C3%A3o_mais_nova-f5c33b?style=for-the-badge&logoColor=10231c" alt="Baixar a versão mais nova" height="40"></a>
+  <a href="https://github.com/scard35/Haxball-Braia-edition/releases/latest"><img src="imagens/baixar.png" alt="Baixar a versão mais nova" width="380"></a>
+  <br><sub>Windows 10 e 11 · Linux (Ubuntu, Mint, Debian)</sub>
 </p>
-
-<p align="center">
-  <a href="https://github.com/scard35/Haxball-Braia-edition/releases/latest"><img src="https://img.shields.io/github/v/release/scard35/Haxball-Braia-edition?style=flat-square&label=vers%C3%A3o&color=14352b&labelColor=0e261f" alt="Versão"></a>
-  <img src="https://img.shields.io/badge/Windows%20e%20Linux-14352b?style=flat-square" alt="Windows e Linux">
-</p>
-
-<br>
 
 <img src="imagens/quadra-salas.jpg" alt="Lista de salas: lugares ocupados, sala escolhida em destaque e amigos ao lado" width="100%">
 
@@ -21,8 +15,8 @@ Veja em que sala cada amigo está e entre com um clique. Convide para a sua sala
 
 <table>
   <tr>
-    <td width="58%"><img src="imagens/quadra-mensagens.jpg" alt="Conversa com um amigo, com convite para a sala"></td>
-    <td width="42%" valign="top">
+    <td width="42%" align="center"><img src="imagens/quadra-mensagens.jpg" alt="Conversa com um amigo, com convite para a sala"></td>
+    <td width="58%" valign="top">
       <b>Amigos</b><br>Código de amigo e busca por nome.<br><br>
       <b>Chat ao vivo</b><br>Numa janela que você move e redimensiona, ao lado do chat da sala.<br><br>
       <b>Convite</b><br>Um cartão com o nome da sala e o botão Entrar.<br><br>
