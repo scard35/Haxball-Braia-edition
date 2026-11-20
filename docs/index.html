@@ -114,7 +114,7 @@
   /* Instalar */
   .instalar { background: radial-gradient(800px 400px at 50% 0%, rgba(245, 184, 46, 0.1), transparent 70%), var(--fundo-2);
     border-block: 1px solid var(--linha); }
-  .sistemas { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+  .sistemas { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
   .sistema { display: flex; flex-direction: column; gap: 14px; padding: 28px; border-radius: var(--raio); background: var(--vidro);
     border: 1px solid var(--linha-forte); }
   .sistema h3 { display: flex; align-items: center; gap: 12px; margin: 0; font-size: 22px; }
@@ -123,7 +123,7 @@
   .sistema ol li { margin-bottom: 6px; }
   .sistema code { padding: 2px 6px; border-radius: 6px; background: rgba(0, 0, 0, 0.35); color: var(--texto); font-size: 14px; overflow-wrap: anywhere; }
   .sistema .botao { align-self: flex-start; margin-top: auto; }
-  @media (max-width: 760px) { .sistemas { grid-template-columns: 1fr; } }
+  @media (max-width: 980px) { .sistemas { grid-template-columns: 1fr; } }
 
   footer { padding: 40px 0 56px; color: var(--apagado); font-size: 14px; }
   footer .caixa { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; }
@@ -178,8 +178,12 @@
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M5 21h14"/></svg>
           Baixar para Linux
         </a>
+        <a class="botao vidro" data-baixar="zst" href="https://github.com/scard35/Haxball-Braia-edition/releases/latest">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.5c-.9 2.2-1.5 3.6-2.4 5.5.6.6 1.3 1.3 2.4 2.1-1.2-.5-2-1-2.7-1.5C7.9 11.6 5.9 15.7 3 21c2.3-1.3 4.1-2.2 5.8-2.5-.1-.4-.1-.8-.1-1.2 0-2.3 1.5-4.1 3.3-4.1s3.3 2 3.3 4.2c0 .4 0 .8-.1 1.1 1.7.3 3.5 1.2 5.8 2.5-.4-.8-.8-1.5-1.1-2.2-1.1-.9-2.3-1.9-4.6-3 1.6.4 2.8.9 3.7 1.4C16.3 10.2 14.4 6.6 12 2.5z"/></svg>
+          Baixar para Arch
+        </a>
       </div>
-      <p class="nota">Grátis · Windows 10 e 11 · Ubuntu, Mint e Debian</p>
+      <p class="nota">Grátis · Windows 10 e 11 · Ubuntu, Mint, Debian e Arch</p>
 
       <div class="tela">
         <div class="janela" aria-hidden="true"><i></i><i></i><i></i></div>
@@ -307,12 +311,21 @@
           <a class="botao cheio" data-baixar="exe" href="https://github.com/scard35/Haxball-Braia-edition/releases/latest">Baixar para Windows</a>
         </div>
         <div class="sistema surge">
-          <h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="14" rx="2"/><path d="m7 9 3 2.5L7 14"/><path d="M12 14h5"/><path d="M8 21h8"/></svg>Linux</h3>
+          <h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="14" rx="2"/><path d="m7 9 3 2.5L7 14"/><path d="M12 14h5"/><path d="M8 21h8"/></svg>Ubuntu, Mint e Debian</h3>
           <ol>
-            <li>Baixe o arquivo <code>.deb</code> (Ubuntu, Mint, Debian).</li>
+            <li>Baixe o arquivo <code>.deb</code>.</li>
             <li>Abra na loja de apps, ou rode <code>sudo apt install ./haxball-braia-edition_*.deb</code></li>
           </ol>
           <a class="botao vidro" data-baixar="deb" href="https://github.com/scard35/Haxball-Braia-edition/releases/latest">Baixar para Linux</a>
+        </div>
+        <div class="sistema surge">
+          <h3><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.5c-.9 2.2-1.5 3.6-2.4 5.5.6.6 1.3 1.3 2.4 2.1-1.2-.5-2-1-2.7-1.5C7.9 11.6 5.9 15.7 3 21c2.3-1.3 4.1-2.2 5.8-2.5-.1-.4-.1-.8-.1-1.2 0-2.3 1.5-4.1 3.3-4.1s3.3 2 3.3 4.2c0 .4 0 .8-.1 1.1 1.7.3 3.5 1.2 5.8 2.5-.4-.8-.8-1.5-1.1-2.2-1.1-.9-2.3-1.9-4.6-3 1.6.4 2.8.9 3.7 1.4C16.3 10.2 14.4 6.6 12 2.5z"/></svg>Arch, Manjaro e EndeavourOS</h3>
+          <ol>
+            <li>Baixe o arquivo <code>.pkg.tar.zst</code>.</li>
+            <li>Rode <code>sudo pacman -U ./haxball-braia-edition-*.pkg.tar.zst</code></li>
+            <li>Depois, o app se atualiza sozinho.</li>
+          </ol>
+          <a class="botao vidro" data-baixar="zst" href="https://github.com/scard35/Haxball-Braia-edition/releases/latest">Baixar para Arch</a>
         </div>
       </div>
     </div>
