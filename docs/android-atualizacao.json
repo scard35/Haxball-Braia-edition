@@ -1,0 +1,7 @@
+{
+  "versionCode": 5,
+  "versionName": "0.4.1",
+  "apkUrl": "https://github.com/scard35/Haxball-Braia-edition/releases/download/v0.2.4/Haxball-Braia-Edition-Android-0.4.1.apk",
+  "sha256": "6b2a87e7b020396cb23d7250832e19cb635ddd8b4eec9e59d43d5bb359eb9327",
+  "notes": "Atualização automática dentro do app: baixa, verifica a integridade e instala sem perder seus dados."
+}
