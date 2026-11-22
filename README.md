@@ -8,6 +8,6 @@
   <a href="https://github.com/scard35/Haxball-Braia-edition/releases/latest">Baixar a versão mais nova</a>
 </h3>
 
-<p align="center"><sub>Grátis · Windows 10 e 11 · Linux (Ubuntu, Mint, Debian)</sub></p>
+<p align="center"><sub>Grátis · Windows 10 e 11 · Linux (Ubuntu, Mint, Debian, Arch) · Android 7+</sub></p>
 
 <p align="center"><sub>© Braia · Haxball Braia Edition · App não oficial; o HaxBall é de basro.</sub></p>
