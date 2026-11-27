@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.5.1",
-  "apkUrl": "https://github.com/scard35/Haxball-Braia-edition/releases/download/v0.2.11/Haxball-Braia-Edition-Android-0.5.1.apk",
-  "sha256": "77a4fd514974efec51373ae2eb3781b4d23c2995b70df9386e4eadcefd162804",
-  "notes": "Botão de chat no painel da sala quando não há partida, senha pedida ao entrar por link, rastro da bola e efeitos de chute, iluminação de estádio, tema de Natal, nomes de sala com emojis e botão para copiar o log da conexão."
+  "versionCode": 9,
+  "versionName": "0.5.2",
+  "apkUrl": "https://github.com/scard35/Haxball-Braia-edition/releases/download/v0.2.12/Haxball-Braia-Edition-Android-0.5.2.apk",
+  "sha256": "37819579f65c99d778c07cc75222d6d873c088660b1b3fbad4d80f8f478120f2",
+  "notes": "Opção Cantos retos deixa os cantos da quadra e do gol retos, e melhorias de estabilidade."
 }
