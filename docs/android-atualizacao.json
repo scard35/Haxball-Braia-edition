@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/scard35/Haxball-Braia-edition/releases/download/v0.2.10/Haxball-Braia-Edition-Android-0.5.0.apk",
-  "sha256": "8dc8c05b95654daa549e91e45986b7934b95332e0eaf6c2a0c970426e0595554",
-  "notes": "Aba Campeonatos com alertas, bolas 3D personalizadas, foto no disco, pisos e linhas do campo, placares de TV, comemorações de gol, 5 pacotes de som com áudio por evento, avisos de partida e escala de resolução."
+  "versionCode": 8,
+  "versionName": "0.5.1",
+  "apkUrl": "https://github.com/scard35/Haxball-Braia-edition/releases/download/v0.2.11/Haxball-Braia-Edition-Android-0.5.1.apk",
+  "sha256": "77a4fd514974efec51373ae2eb3781b4d23c2995b70df9386e4eadcefd162804",
+  "notes": "Botão de chat no painel da sala quando não há partida, senha pedida ao entrar por link, rastro da bola e efeitos de chute, iluminação de estádio, tema de Natal, nomes de sala com emojis e botão para copiar o log da conexão."
 }
